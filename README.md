@@ -1,3 +1,4 @@
+![Header](https://github.com/Suhairayousuf/Suhairayousuf/blob/main/DALL%C2%B7E%202024-12-13%2000.19.09%20-%20A%20professional%20banner%20for%20a%20GitHub%20profile%20header.%20The%20design%20features%20vibrant%20colors%20like%20blue%2C%20teal%2C%20and%20white%2C%20with%20modern%20tech%20and%20developer%20theme.webp)
 # 💫 About Me:
 Hi, I'm  a passionate Flutter developer with over 3 years of experience creating dynamic and user-friendly mobile applications.Currently working as a team leader at First Logic Meta Lab pvt, I specialize in building seamless, cross-platform apps that address real-world challenges.My expertise lies in combining design and functionality to deliver engaging user experiences, ensuring high performance and scalability for modern digital needs."
 As a team leader at **First Logic Meta Lab**, I have led successful projects like:
