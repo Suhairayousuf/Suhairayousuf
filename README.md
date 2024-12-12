@@ -4,6 +4,8 @@ Hi, I'm  a passionate Flutter developer with over 3 years of experience creating
 As a team leader at **First Logic Meta Lab**, I have led successful projects like:
 - 🛒 **Watarain**: A feature-rich e-commerce app.
 - 📖 **3MS**: An all-in-one application for daily needs and accounts.
+- 🗨️ **QCTT**: A Communication in easy way application by using public profiles.
+- 🔄 **Pixelfinish**: A Data converting application used to convert images into digital format.
 
 When I'm not coding, you can find me exploring new tools, mentoring developers, or learnig something! 
 
@@ -29,11 +31,18 @@ When I'm not coding, you can find me exploring new tools, mentoring developers, 
 ### 📱 Mobile Applications
 1. **[Watarain](https://play.google.com/store/apps/details?id=watarain)**  
    A feature-packed e-commerce app built using Flutter.  
-   - **Tech Stack**: Flutter, Dart, Firebase, REST APIs
+   - **Tech Stack**: Flutter, Dart, Firebase, REST APIs,Google cloud
 
 2. **[3MS](https://play.google.com/store/apps/details?id=3ms)**  
    An all-in-one app for daily needs and accounts management.  
-   - **Tech Stack**: Flutter, Provider, SQLite, Firebase
+   - **Tech Stack**: Flutter, Provider, SQFLite, Firebase
+
+3. **[QCTT]**  
+   A Communication and contacting application.  
+   - **Tech Stack**: Flutter, Provider, SQFLite, Firebase,MVC.
+4. **[Pixelfinish]**  
+   A Data converting application.  
+   - **Tech Stack**: Flutter, Provider, Firebase,MVC
      
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Suhairayousuf&limit=5&theme=dark&combine_all_yearly_contributions=true)
