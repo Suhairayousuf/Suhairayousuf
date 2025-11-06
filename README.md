@@ -38,7 +38,7 @@ When I'm not coding, you can find me exploring new tools, mentoring developers, 
    An all-in-one app for daily needs and accounts management.  
    - **Tech Stack**: Flutter, Provider, SQFLite, Firebase
 
-3. **[QCTT]**  
+3. **QCTT**  
    A Communication and contacting application.  
    - **Tech Stack**: Flutter, Provider, SQFLite, Firebase,MVC.
 4. **[Pixelfinish]**  
