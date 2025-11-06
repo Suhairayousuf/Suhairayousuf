@@ -41,13 +41,13 @@ When I'm not coding, you can find me exploring new tools, mentoring developers, 
 3. **QCTT**  
    A Communication and contacting application.  
    - **Tech Stack**: Flutter, Provider, SQFLite, Firebase,MVC.
-4. **[Pixelfinish]**  
+4. **Pixelfinish**  
    A Data converting application.  
    - **Tech Stack**: Flutter, Provider, Firebase,MVC
-5. **[Mayan]**  
+5. **[Mayan]([https://play.google.com/store/apps/details?id=watarain](https://play.google.com/store/apps/details?id=com.mayan.calandar&pcampaignid=web_share))**  
    An Event Management application.  
    - **Tech Stack**: Flutter, Provider, Firebase,MVC,SQLite
-6. **[Soulknob]**  
+6. **[Soulknob](https://play.google.com/store/search?q=soulknob&c=apps)**  
    A Doctor Patient Consulting Application.  
    - **Tech Stack**: Flutter, Provider, Firebase,MVC,SQLite
    -  
