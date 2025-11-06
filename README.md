@@ -44,7 +44,7 @@ When I'm not coding, you can find me exploring new tools, mentoring developers, 
 4. **Pixelfinish**  
    A Data converting application.  
    - **Tech Stack**: Flutter, Provider, Firebase,MVC
-5. **[Mayan](https://play.google.com/store/apps/details?id=watarain](https://play.google.com/store/apps/details?id=com.mayan.calandar&pcampaignid=web_share)**  
+5. **[Mayan](https://play.google.com/store/apps/details?id=com.mayan.calandar&pcampaignid=web_share)**  
    An Event Management application.  
    - **Tech Stack**: Flutter, Provider, Firebase,MVC,SQLite
 6. **[Soulknob](https://play.google.com/store/search?q=soulknob&c=apps)**  
