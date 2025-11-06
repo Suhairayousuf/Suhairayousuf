@@ -6,7 +6,8 @@ As a team leader at **First Logic Meta Lab**, I have led successful projects lik
 - 📖 **3MS**: An all-in-one application for daily needs and accounts.
 - 🗨️ **QCTT**: A Communication in easy way application by using public profiles.
 - 🔄 **Pixelfinish**: A Data converting application used to convert images into digital format.
-
+- 🔄 **Mayan**: An Event Management application for customers to store the event detailes with images,vedios,audios and set reminder notification.
+- 🔄 **Soulknob**: A doctor patient consulting app to book slots patient to consult doctor and doctor can allocate slots for patients, and prescribe medicines.
 When I'm not coding, you can find me exploring new tools, mentoring developers, or learnig something! 
 
 ---
